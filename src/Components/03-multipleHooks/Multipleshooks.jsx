@@ -6,7 +6,7 @@ import "./breakingbad.css";
 const Multipleshooks = () => {
   const { counter, increment, decrement } = useCounter(1);
   const { loading, data } = useFetch(`characters/${counter}`);
-  const { name, nickname, birthday, img } = !!data && data[0];
+  const { name, nickname, status, img } = !!data && data[0];
 
   console.log(!data);
 
@@ -40,7 +40,7 @@ const Multipleshooks = () => {
                 </p>
                 <p>
                   <strong>Estado: </strong>
-                  {birthday}
+                  {status}
                 </p>
                 <p>
                   <strong>Apodo: </strong>
