@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rosquidx/breaking_bad_personajesstatic/css/main.b9fe163d.chunk.css",
+    "main.js": "/Rosquidx/breaking_bad_personajesstatic/js/main.4d6e028c.chunk.js",
+    "main.js.map": "/Rosquidx/breaking_bad_personajesstatic/js/main.4d6e028c.chunk.js.map",
+    "runtime-main.js": "/Rosquidx/breaking_bad_personajesstatic/js/runtime-main.b92e4d2b.js",
+    "runtime-main.js.map": "/Rosquidx/breaking_bad_personajesstatic/js/runtime-main.b92e4d2b.js.map",
+    "static/js/2.2f4b3f68.chunk.js": "/Rosquidx/breaking_bad_personajesstatic/js/2.2f4b3f68.chunk.js",
+    "static/js/2.2f4b3f68.chunk.js.map": "/Rosquidx/breaking_bad_personajesstatic/js/2.2f4b3f68.chunk.js.map",
+    "index.html": "/Rosquidx/breaking_bad_personajesindex.html",
+    "static/css/main.b9fe163d.chunk.css.map": "/Rosquidx/breaking_bad_personajesstatic/css/main.b9fe163d.chunk.css.map",
+    "static/js/2.2f4b3f68.chunk.js.LICENSE.txt": "/Rosquidx/breaking_bad_personajesstatic/js/2.2f4b3f68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92e4d2b.js",
+    "static/js/2.2f4b3f68.chunk.js",
+    "static/css/main.b9fe163d.chunk.css",
+    "static/js/main.4d6e028c.chunk.js"
+  ]
+}
