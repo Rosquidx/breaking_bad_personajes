@@ -24,7 +24,7 @@ const Multipleshooks = () => {
             <header className="center ">
               <img
                 src={
-                  imagen
+                  "https://raw.githubusercontent.com/smilegupta/breaking-bad/master/src/img/logo.png"
                 }
                 alt=""
               />
