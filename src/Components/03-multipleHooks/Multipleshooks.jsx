@@ -2,7 +2,6 @@ import React from "react";
 import useFetch from "../../hooks/useFetch";
 import useCounter from "../../hooks/useCounter";
 import "./breakingbad.css";
-import imagen from '../../img/logo.png'
 const Multipleshooks = () => {
   const { counter, increment, decrement } = useCounter(1);
   const { loading, data } = useFetch(`characters/${counter}`);
